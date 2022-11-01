@@ -1,4 +1,4 @@
-# capacitor-telephony-manager
+# Capacitor Telephony Manager
 
 Telephony Manager for VOIP Apps
 
